@@ -9,4 +9,4 @@ Welcome to the central hub for ARCQ AI LIMITED, a London-based AI consultancy. E
 - [AI Chatbot Development](https://arcqai.github.io/ai-chatbot-development/) - Custom chatbot frameworks with NLP integration.
 
 Visit our website: [https://arcq.ai](https://arcq.ai)
-Contact us: contact@arcq.ai
+Contact us: doyeoun@arcq.ai
