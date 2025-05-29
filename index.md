@@ -12,4 +12,4 @@ Explore our services:
 - [AI Chatbot Development](https://arcqai.github.io/ai-chatbot-development/)
 
 Visit our website: [https://arcq.ai](https://arcq.ai)  
-Contact us: contact@arcq.ai
+Contact us: doyeoun@arcq.ai
