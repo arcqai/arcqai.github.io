@@ -10,3 +10,8 @@ Welcome to the central hub for ARCQ AI LIMITED, a London-based AI consultancy. E
 
 Visit our website: [https://arcq.ai](https://arcq.ai)
 Contact us: doyeoun@arcq.ai
+
+## Latest Articles
+
+- [Custom AI Model Development vs Off-the-Shelf Solutions](./Custom%20AI%20Model%20Development%20vs%20Off-the-Shelf%20Solutions_%20What%20You%20Really%20Need%20to%20Know.pdf)
+
